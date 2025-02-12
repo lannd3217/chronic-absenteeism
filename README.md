@@ -6,9 +6,13 @@ The project is divided into two main phases:
 2. Prediction Models: Using machine learning techniques to forecast chronic absenteeism for the upcominh school year, leveraging past attendance, demographic, and academic performance data.
 ## File Structure
 📂 ChronicAbsenteeismProject
+
 │── 📁 data/              # Contains datasets for multiple schools and years
+
 │── 📁 notebooks/         # Jupyter Notebooks for data exploration and model training
+
 │── 📁 reports/           # Analysis reports in PDF and HTML format
+
 │── 📄 README.md          # Project documentation (this file)
 
 
